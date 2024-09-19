@@ -1,0 +1,5 @@
+JDK是Java语言的开发工具包，是编译Java代码的地方。
+JRE是Java程序的运行环境，包含了JVM和Java类库，是执行Java程序的地方。
+JVM是一个软件平台，使Java语言可以在支持JVM的操作系统上运行。
+概括一下就是，Java代码在JMD(JVM)上完成编译和打包成.class文件，在JRE上运行。
+我还看到了Java理念的  Write Once, Run Anywhere
